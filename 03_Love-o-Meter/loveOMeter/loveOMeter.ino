@@ -1,5 +1,5 @@
 const int sensorPin = A0;
-const float baselineTemp = 24.22;
+const float baselineTemp = 16.0;
 
 void setup() {
   //open connection (serial port) between Arduino and computer to see analog input values
