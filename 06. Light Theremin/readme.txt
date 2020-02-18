@@ -1,0 +1,1 @@
+'Light Theremin' program outputs sound, based on amount of light coming into photoresistor. It is an exercise meant to demonstrate the functions of photoresistors, piezo components, and the tone() function.
