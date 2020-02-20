@@ -1,0 +1,1 @@
+'Keyboard Instrument' plays different notes based on which button is pressed. Each button corresponds to a different frequency, which is then played by a piezo speaker. To accomplish this, the tone() function is used.
