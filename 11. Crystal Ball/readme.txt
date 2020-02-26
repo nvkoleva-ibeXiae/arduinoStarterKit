@@ -1,0 +1,3 @@
+The Arduino Crystal Ball project uses LCD to display random replies when the circuit is shaking, similar to an 8-ball. The idea is that a yes/no question is asked after which the circuit is shaken and the LCD gives a reply. This project utilizes the LCD Arduino library, a tilt switch, a potentiometer to adjust screen brightness, and switch cases to decide which reply to output.
+
+Circuit demo video: https://youtu.be/J0-GlPmXFE8
