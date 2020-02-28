@@ -1,0 +1,1 @@
+The purpose of 'Knock Lock' is to keep track of when a lock is locked/unlocked and perform an unlock through piezo knocks. It is also to showcase that the piezo can be used as input.
