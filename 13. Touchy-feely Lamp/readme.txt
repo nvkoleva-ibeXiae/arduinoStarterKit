@@ -1,0 +1,1 @@
+'Touchy-feely Lamp' is a project meant to demonstrate how capacitance works and is transferred. Namely, as there is no power supplied in this circuit yet the LED lights on whenever a capacitively charged object touches the exposed wire. It uses the Capacitive Sensor library, which needs to be separately downloaded to the Arduino IDE.
